@@ -1,0 +1,12 @@
+openai
+langchain
+python-dotenv
+faiss-cpu
+chromadb
+networkx
+lxml
+streamlit
+tqdm
+langchain
+langchain-community
+langchain-openai
